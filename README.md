@@ -14,7 +14,7 @@ You can convert it to MOBI to read on a Kindle using 2EPUB free online EPUB conv
 Copyright
 ---------
 
-Copyright © 2002-2011 Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato. (http://svnbook.red-bean.com/en/1.6/svn.copyright.html)
-Copyright © 2002-2013 Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato. (http://svnbook.red-bean.com/en/1.7/svn.copyright.html)
+- 1.6: Copyright © 2002-2011 Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato. (http://svnbook.red-bean.com/en/1.6/svn.copyright.html)
+- 1.7: Copyright © 2002-2013 Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato. (http://svnbook.red-bean.com/en/1.7/svn.copyright.html)
 
 This work is licensed under the Creative Commons Attribution License. (http://creativecommons.org/licenses/by/2.0/)
